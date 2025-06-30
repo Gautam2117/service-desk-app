@@ -29,10 +29,35 @@ A modern, responsive Service Desk Application built with **React (Vite)**, **Fir
 
 ## 🖥️ Screenshots
 
-<img src="https://raw.githubusercontent.com/Gautam2117/service-desk-app/refs/heads/master/Login.png" width="500"/>
-<img src="https://raw.githubusercontent.com/Gautam2117/service-desk-app/refs/heads/master/Register.png" width="500"/>
-<img src="https://github.com/Gautam2117/service-desk-app/blob/master/User_Panel.png" width="500"/>
-<img src="public/screenshots/admin.png" width="500"/>
+<details>
+  <summary>🔐 Login Screen</summary>
+  <img src="https://raw.githubusercontent.com/Gautam2117/service-desk-app/refs/heads/master/Login.png" width="500"/>
+</details>
+
+<details>
+  <summary>📝 Register Screen</summary>
+  <img src="https://raw.githubusercontent.com/Gautam2117/service-desk-app/refs/heads/master/Register.png" width="500"/>
+</details>
+
+<details>
+  <summary>👤 User Panel</summary>
+  <img src="https://github.com/Gautam2117/service-desk-app/blob/master/User_Panel.png" width="500"/>
+</details>
+
+<details>
+  <summary>🎫 Ticket Detail View</summary>
+  <img src="https://github.com/Gautam2117/service-desk-app/blob/master/Ticket_Detail.png" width="500"/>
+</details>
+
+<details>
+  <summary>➕ Raise Ticket Form</summary>
+  <img src="https://github.com/Gautam2117/service-desk-app/blob/master/Raise_Ticket.png" width="500"/>
+</details>
+
+<details>
+  <summary>🛠️ Admin Panel</summary>
+  <img src="https://github.com/Gautam2117/service-desk-app/blob/master/Admin_Panel.png" width="500"/>
+</details>
 
 ---
 
