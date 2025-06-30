@@ -50,7 +50,7 @@ A modern, responsive Service Desk Application built with **React (Vite)**, **Fir
 
 🧠 **Responsive & Sleek UI**  
 - Built with Tailwind CSS & React  
-- Eesponsive on all screen sizes  
+- Responsive on all screen sizes  
 - Smooth animations and clean layouts
 
 ---
