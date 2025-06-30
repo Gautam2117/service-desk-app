@@ -41,7 +41,7 @@ A modern, responsive Service Desk Application built with **React (Vite)**, **Fir
 
 <details>
   <summary>👤 User Panel</summary>
-  <img src="https://github.com/Gautam2117/service-desk-app/blob/master/User_Panel.png" width="500"/>
+  <img src="https://github.com/Gautam2117/service-desk-app/blob/master/User_Panel.png" width="1000"/>
 </details>
 
 <details>
