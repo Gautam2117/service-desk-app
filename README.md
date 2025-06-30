@@ -122,7 +122,7 @@ A modern, responsive Service Desk Application built with **React (Vite)**, **Fir
 
 | Role  | Email                             | Password      |
 |-------|-----------------------------------|---------------|
-| Admin | govindgautam933@gmail.com.com     | gautam123     |
+| Admin | govindgautam933@gmail.com         | gautam123     |
 | User  | gautamgovind296@gmail.com         | gautam123     |
 
 ---
