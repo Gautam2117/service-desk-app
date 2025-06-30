@@ -1,4 +1,7 @@
-# 🛠️ Service Desk App
+<h1 align="center">
+  <img src="https://github.com/Gautam2117/service-desk-app/blob/master/public/service_desk_logo.png?raw=true" width="40" height="40" style="border-radius: 50%; vertical-align: middle; margin-right: 10px;" />
+  🛠️ Service Desk App
+</h1>
 
 A modern, responsive Service Desk Application built with **React (Vite)**, **Firebase**, and **Razorpay**. Users can raise support tickets, track their progress, and receive real-time updates. Admins can manage, assign, and resolve tickets efficiently with a clean UI and activity logging system.
 
@@ -8,13 +11,47 @@ A modern, responsive Service Desk Application built with **React (Vite)**, **Fir
 
 ## ✨ Features
 
-- 🔐 **Firebase Authentication** – Secure Email/Password login
-- 🎫 **Ticket Management** – Create, categorize, and prioritize tickets
-- 🧑‍💻 **Role-based Dashboards** – Separate views for Users and Admins
-- 🧩 **Real-time Updates** – Track status, comments, and history live via Firestore
-- 💳 **Razorpay Integration** – Optional paid ticket priority for faster resolution
-- 📈 **Admin Analytics** – Ticket stats, filter/search, CSV/PDF export
-- 📄 **Timeline Logs** – Automatically log ticket activities (creation, update, assignment, resolution)
+🛡 **Secure Authentication with Firebase**  
+- Email/password login using Firebase Authentication  
+- Role-based routing: users vs admins  
+- Session persistence and protected routes
+
+🎫 **Smart Ticketing System**  
+- Raise support tickets with **category**, **priority**, and **issue description**  
+- View all your tickets with real-time status updates  
+- Fully functional **ticket detail view** with comments and updates
+
+🧑‍💼 **Role-Based Dashboards**  
+- 👤 Users: Submit & track tickets, comment on issues  
+- 🛠️ Admins: Assign, resolve, or escalate tickets, manage priorities
+
+📂 **File Upload Support**  
+- Users can upload **screenshots or supporting documents** with tickets  
+- Stored securely in **Firebase Storage**  
+- Downloadable attachments for admin review
+
+📜 **Ticket Timeline with Audit Logs**  
+- Every action (created, assigned, resolved, commented) is auto-logged  
+- Real-time **timeline tracking** inside ticket detail view
+
+📊 **Admin Panel with Analytics**  
+- Live dashboard of total tickets, status breakdown, priorities  
+- Powerful **search**, **filter by category/priority/status/date**  
+- Export data to **CSV** or **PDF** with one click
+
+💳 **Razorpay Payment Integration**  
+- Option for users to **pay for priority support**  
+- Premium tickets get highlighted in admin dashboard  
+- Integrated Razorpay Checkout flow
+
+📢 **Real-time Comments System**  
+- Users and admins can **comment and reply** on ticket threads  
+- Includes **@mention support**, timestamps, and live sync
+
+🧠 **Responsive & Sleek UI**  
+- Built with Tailwind CSS & React  
+- **Dark mode-ready**, responsive on all screen sizes  
+- Smooth animations and clean layouts
 
 ---
 
@@ -41,7 +78,7 @@ A modern, responsive Service Desk Application built with **React (Vite)**, **Fir
 
 <details>
   <summary>👤 User Panel</summary>
-  <img src="https://github.com/Gautam2117/service-desk-app/blob/master/User_Panel.png" width="1000"/>
+  <img src="https://github.com/Gautam2117/service-desk-app/blob/master/User_Panel.png" width="500"/>
 </details>
 
 <details>
