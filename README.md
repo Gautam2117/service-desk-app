@@ -29,8 +29,9 @@ A modern, responsive Service Desk Application built with **React (Vite)**, **Fir
 
 ## 🖥️ Screenshots
 
-<img src="public/screenshots/login.png" width="500"/>
-<img src="public/screenshots/dashboard.png" width="500"/>
+<img src="https://raw.githubusercontent.com/Gautam2117/service-desk-app/refs/heads/master/Login.png" width="500"/>
+<img src="https://raw.githubusercontent.com/Gautam2117/service-desk-app/refs/heads/master/Register.png" width="500"/>
+<img src="https://github.com/Gautam2117/service-desk-app/blob/master/User_Panel.png" width="500"/>
 <img src="public/screenshots/admin.png" width="500"/>
 
 ---
